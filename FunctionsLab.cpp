@@ -20,7 +20,7 @@ int locateSmallest(int array[], int start, int end){
 			
 		}
 	}
-	return location ; // fix this!
+	return location ; // fixed
 }
 
 //Write the function called replaceVariable in the given interval such that 
